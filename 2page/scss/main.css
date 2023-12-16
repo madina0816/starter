@@ -38,6 +38,34 @@ img {
   display: inline-block;
 }
 
+.footer {
+  background: #33323D;
+}
+.footer-box {
+  display: flex;
+  align-items: center;
+}
+.footer-main {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+.footer-list {
+  display: flex;
+  align-items: center;
+  gap: 0 42px;
+  margin-left: 48px;
+  margin-right: 591px;
+}
+.footer-item {
+  color: #FFF;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
 .header {
   margin-top: 64px;
   margin-bottom: 94px;

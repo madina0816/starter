@@ -1,0 +1,32 @@
+.footer {
+    background: #33323D;
+
+    &-box {
+        display: flex;
+        align-items: center;
+    }
+
+    &-main {
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
+
+    &-list {
+        display: flex;
+        align-items: center;
+        gap: 0 42px;
+        margin-left: 48px;
+        margin-right: 591px;
+    }
+
+    &-item {
+        color: #FFF;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+}
+
