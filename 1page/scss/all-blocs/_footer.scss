@@ -1,0 +1,31 @@
+.footer {
+    width: 1111px;
+    height: 80px;
+    background: #33323D;
+    padding: 33px 165px;
+    display: flex;
+    align-items: center;
+
+    &-list {
+        display: flex;
+        align-items: center;
+        gap: 42px;
+margin-left: 48px;
+margin-right: 280px;
+    }
+
+    &-list>li>a {
+        color: #FFF;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-transform: uppercase;
+    }
+
+
+
+
+
+
+}
