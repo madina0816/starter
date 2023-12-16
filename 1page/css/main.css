@@ -63,11 +63,4 @@ img {
 .header > ul > li > a:active {
   color: #33323D;
   transition: all 3 ease;
-}
-
-.hero {
-  width: 1111px;
-  height: 798px;
-  background-image: url("../../asserts/img/tvimg.png");
-  background-repeat: no-repeat;
 }/*# sourceMappingURL=main.css.map */
