@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@400;700&family=Public+Sans&display=swap");
+*::before,
+*::after,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+span {
+  display: inline-block;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  display: inline-block;
+}
+
+.container {
+  width: 1071px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 64px;
+  width: 1111px;
+  height: 32px;
+}
+.header > ul {
+  display: flex;
+  align-items: center;
+  gap: 43px;
+}
+.header > ul > li > a {
+  color: #5FB4A2;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.header > ul > li > a:active {
+  color: #33323D;
+  transition: all 3 ease;
+}/*# sourceMappingURL=main.css.map */
