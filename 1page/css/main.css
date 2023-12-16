@@ -33,6 +33,41 @@ img {
 }
 
 .container {
+  width: 1071px;
   padding: 0 20px;
   margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 64px;
+  width: 1111px;
+  height: 32px;
+}
+.header > ul {
+  display: flex;
+  align-items: center;
+  gap: 43px;
+}
+.header > ul > li > a {
+  color: #5FB4A2;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.header > ul > li > a:active {
+  color: #33323D;
+  transition: all 3 ease;
+}
+
+.hero {
+  width: 1111px;
+  height: 798px;
+  background-image: url("../../asserts/img/tvimg.png");
+  background-repeat: no-repeat;
 }/*# sourceMappingURL=main.css.map */
