@@ -1,0 +1,50 @@
+.fylo {
+    margin-top: 80px;
+
+    &-text {
+        margin-right: 125px;
+
+        h2 {
+            color: #33323D;
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 42px;
+            letter-spacing: -0.357px;
+        }
+
+        p {
+            width: 350px;
+            margin-bottom: 24px;
+            color: #33323D;
+            opacity: 0.8;
+            font-size: 16px;
+            font-style: normal;
+            margin-top: 28px;
+            font-weight: 400;
+            line-height: 30px;
+        }
+    }
+}
+
+.fylo-box {
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+    margin-bottom: 150px;
+}
+
+.fylo-btn {
+    width: 175px;
+    height: 48px;
+    flex-shrink: 0;
+    border: 1px solid #33323D;
+    color: #33323D;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background-color: transparent;
+}
