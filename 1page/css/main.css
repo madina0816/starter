@@ -35,4 +35,11 @@ img {
 .container {
   padding: 0 20px;
   margin: 0 auto;
+}
+
+.bookmark-hero {
+  background-color: #5267E0;
+}
+.bookmark-hero_img {
+  background-color: #5267E0;
 }/*# sourceMappingURL=main.css.map */
