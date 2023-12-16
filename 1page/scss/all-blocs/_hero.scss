@@ -1,0 +1,64 @@
+.hero{
+    position: relative;
+    &-box{
+width: 1111px;
+height: 600px;
+margin-top: 63px;
+margin-bottom: 116px;
+    }
+//     &-img{
+// position: relative;
+//  }
+&-absolut{
+position: absolute;
+top: 50px;
+right: 115px;
+}
+
+&-absolut>img{
+    width: 659px;
+    }
+
+&-title{
+    position: absolute;
+    padding: 56px 55px 53px 0;
+    width: 445px;
+    height: 357px;
+background: #FAFAFA;;
+top: 250px;
+}
+&-title>h1{
+    color: #33323D;
+ font-family: Ibarra Real Nova;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px; 
+    letter-spacing: -0.446px;
+}
+&-button{
+    display: flex;
+    align-items: center;
+    margin-top: 53px;
+width: 200px;
+height: 48px;
+background: #203A4C;
+
+}
+&-button>a{
+    color: #FFF;
+padding: 17px;
+    text-align: center;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+}
+
+
+
+
+}
