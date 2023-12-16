@@ -1,0 +1,5 @@
+<<<<<<< HEAD:1page/scss/main.css.map
+{"version":3,"sources":["_fonts.scss","_global.scss","main.css","_container.scss","all-blocs/_header.scss","all-blocs/_hero.scss"],"names":[],"mappings":"AAAQ,qHAAA;ACAR;;;EAGI,SAAA;EACA,UAAA;EACA,sBAAA;ACEJ;;ADCA;EACI,uBAAA;ACEJ;;ADCA;EACI,gBAAA;ACEJ;;ADCA;EACI,qBAAA;EACA,qBAAA;ACEJ;;ADCA;EACI,qBAAA;ACEJ;;ADCA;EACI,eAAA;ACEJ;;ADCA;EACI,qBAAA;ACEJ;;AChCA;EACI,aAAA;EACA,eAAA;EACA,cAAA;ADmCJ;;AEtCA;EACA,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,gBAAA;EACA,aAAA;EACA,YAAA;AFyCA;AExCA;EACA,aAAA;EACA,mBAAA;EACA,SAAA;AF0CA;AExCA;EACI,cAAA;EACA,eAAA;EACA,kBAAA;EACA,gBAAA;EACA,mBAAA;EACA,mBAAA;EACA,yBAAA;AF0CJ;AExCA;EACI,cAAA;EACA,sBAAA;AF0CJ;;AGjEA;EACA,aAAA;EACA,aAAA;EACA,oDAAA;EACA,4BAAA;AHoEA","file":"main.css"}
+=======
+{"version":3,"sources":["_fonts.scss","_global.scss","main.css","_container.scss"],"names":[],"mappings":"AAAQ,qHAAA;ACAR;;;EAGI,SAAA;EACA,UAAA;EACA,sBAAA;ACEJ;;ADCA;EACI,uBAAA;ACEJ;;ADCA;EACI,gBAAA;ACEJ;;ADCA;EACI,qBAAA;EACA,qBAAA;ACEJ;;ADCA;EACI,qBAAA;ACEJ;;ADCA;EACI,eAAA;ACEJ;;ADCA;EACI,qBAAA;ACEJ;;AChCA;EAEI,eAAA;EACA,cAAA;ADkCJ","file":"main.css"}
+>>>>>>> a17f0ff7e120826f67b7eab286ec5a73ca6b5479:scss/main.css.map
