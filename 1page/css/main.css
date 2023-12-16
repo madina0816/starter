@@ -63,4 +63,130 @@ img {
 .header > ul > li > a:active {
   color: #33323D;
   transition: all 3 ease;
+}
+
+.hero {
+  position: relative;
+}
+.hero-box {
+  width: 1111px;
+  height: 600px;
+  margin-top: 63px;
+  margin-bottom: 116px;
+}
+.hero-absolut {
+  position: absolute;
+  top: 50px;
+  right: 115px;
+}
+.hero-absolut > img {
+  width: 659px;
+}
+.hero-title {
+  position: absolute;
+  padding: 56px 55px 53px 0;
+  width: 445px;
+  height: 357px;
+  background: #FAFAFA;
+  top: 250px;
+}
+.hero-title > h1 {
+  color: #33323D;
+  font-family: Ibarra Real Nova;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: -0.446px;
+}
+.hero-button {
+  display: flex;
+  align-items: center;
+  margin-top: 53px;
+  width: 200px;
+  height: 48px;
+  background: #203A4C;
+}
+.hero-button > a {
+  color: #FFF;
+  padding: 17px;
+  text-align: center;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.section {
+  display: flex;
+  gap: 100px;
+  margin-top: 116px;
+}
+.section-title {
+  border-top: 1px solid #33323D;
+}
+.section-title-h2 {
+  margin-top: 50px;
+  color: #33323D;
+  width: 350px;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: -0.357px;
+}
+.section-title > p {
+  width: 350px;
+  color: #33323D;
+  font-family: Public Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 28px;
+  margin-bottom: 24px;
+}
+.section-title > a {
+  width: 202px;
+  height: 48px;
+  border: 1px solid #33323D;
+  color: #33323D;
+  padding: 17px 32px;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.section-box {
+  margin-top: 115px;
+  margin-bottom: 150px;
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+.section-box > h2 {
+  width: 350px;
+  color: #33323D;
+  font-family: Ibarra Real Nova;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: -0.357px;
+}
+.section-box > a {
+  width: 162px;
+  height: 48px;
+  border: 1px solid #33323D;
+  padding: 17px 32px;
+  color: #33323D;
+  font-family: Public Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
 }/*# sourceMappingURL=main.css.map */
