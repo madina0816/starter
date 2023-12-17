@@ -1,0 +1,207 @@
+.bookmark-hero {
+    background-image: url("../../../1page/assets/img/bookmark-hero_img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1030px;
+    height: 500px;
+    margin-bottom: 115px;
+}
+
+.bookmark-list_1 {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    margin-bottom: 64px;
+}
+
+.list-1_1 {
+    &-box {
+        width: 350px;
+        height: 1px;
+        opacity: 0.15;
+        background: #33323D;
+        margin-bottom: 48px;
+    }
+
+    h2 {
+        max-width: 100%;
+        width: 350px;
+        color: #33323D;
+        font-family: 'Ibarra Real Nova';
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 42px;
+        letter-spacing: -0.357px;
+        margin-bottom: 29px;
+    }
+
+    p {
+        max-width: 100%;
+        width: 350px;
+        color: #33323D;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
+        margin-bottom: 23px;
+    }
+
+    h6 {
+        max-width: 100%;
+        width: 350px;
+        color: #5FB4A2;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 30px;
+        margin-bottom: 16px;
+    }
+
+    h5 {
+        max-width: 100%;
+        width: 350px;
+        color: #5FB4A2;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 30px;
+        text-transform: uppercase;
+        margin-bottom: 32px;
+    }
+
+    button {
+        padding: 17px 35px;
+        border: 1px solid #33323D;
+        color: #33323D;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        background: none;
+        margin-bottom: 48px;
+    }
+}
+
+.list-1_2 {
+    h2 {
+        max-width: 100%;
+        width: 350px;
+        color: #33323D;
+        font-family: 'Ibarra Real Nova';
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 42px;
+        letter-spacing: -0.286px;
+        margin-bottom: 28px;
+    }
+
+    p {
+        max-width: 100%;
+        width: 635px;
+        color: #33323D;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
+    }
+}
+
+.list-2 {
+    margin-bottom: 115px;
+
+    &-box {
+        width: 1070px;
+        height: 1px;
+        opacity: 0.15;
+        background: #33323D;
+    }
+
+    &-box-1 {
+        width: 1px;
+        height: 130px;
+        opacity: 0.15;
+        background: #33323D;
+    }
+
+    &-text {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &-div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0 12px;
+
+        a {
+            color: #33323D;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 30px;
+        }
+
+        h5 {
+            color: #33323D;
+            font-family: 'Ibarra Real Nova';
+            font-size: 32px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 36px;
+            letter-spacing: -0.286px;
+        }
+
+        p {
+            color: #33323D;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 30px;
+        }
+    }
+}
+
+.list-3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 150px;
+
+    h2 {
+        max-width: 100%;
+        width: 350px;
+        color: #33323D;
+        font-family: 'Ibarra Real Nova';
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 42px;
+        letter-spacing: -0.357px;
+    }
+
+    &-box {
+        width: 500px;
+        height: 1px;
+        opacity: 0.15;
+        background: #33323D;
+    }
+
+    button {
+        padding: 15px 25px;
+        border: 1px solid #33323D;
+        color: #33323D;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        background: none;
+    }
+}
