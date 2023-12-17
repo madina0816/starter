@@ -4,22 +4,29 @@
     &-box {
         display: flex;
         align-items: center;
-        justify-content: space-between;
-        padding: 33px 0;
+    }
+
+    &-main {
+        padding-top: 24px;
+        padding-bottom: 24px;
     }
 
     &-list {
         display: flex;
         align-items: center;
         gap: 0 42px;
+        margin-left: 48px;
+        margin-right: 591px;
     }
 
-    &-list>li>a {
+    &-item {
         color: #FFF;
         font-size: 12px;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
+        letter-spacing: 2px;
         text-transform: uppercase;
     }
 }
+

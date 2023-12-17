@@ -1,0 +1,34 @@
+.interest-title {
+    color: #33323D;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 42px;
+    width: 370px;
+    letter-spacing: -0.357px;
+}
+
+.interest-btn {
+    width: 175px;
+    height: 48px;
+    flex-shrink: 0;
+    border: 1px solid #33323D;
+    color: #33323D;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background-color: transparent;
+}
+
+.interest-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.interest{
+    margin-bottom: 150px;
+}
